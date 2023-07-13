@@ -10,8 +10,8 @@ To explore the final version of the web site please visit the following URL:
 https://carlos-2mm.github.io/01_weekly-challenge/
 
 A preview of the web site:
-![alt text] (assets/images/01_page-preview.png)
-![alt text] (assets/images/02_page-preview.png)
+![alt text] (./assets/images/01_page-preview.png)
+![alt text] (./assets/images/02_page-preview.png)
 
 ## Credits
 https://github.com/coding-boot-camp/urban-octo-telegram
