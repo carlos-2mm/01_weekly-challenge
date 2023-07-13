@@ -7,7 +7,7 @@ N/A
 
 ## Usage
 To explore the final version of the web site please visit the following URL:
-<br>https://carlos-2mm.github.io/01_weekly-challenge/
+<br>https://carlos-2mm.github.io/horiseon-online-specialist/
 
 A preview of the web site:
 
